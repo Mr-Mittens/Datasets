@@ -13,7 +13,15 @@ some of the assets that come in handy for me.
 
 [google-data-search](https://datasetsearch.research.google.com/)
 
+
+### census & survey
+
 [census-data](https://www.census.gov/data.html)
+
+[survey-monkey-sample-size-calculator](https://www.surveymonkey.com/mp/sample-size-calculator)
+
+[raosoft-sample-size](http://www.raosoft.com/samplesize.html)
+
 
 ### articles
 [open-data & closed data](https://medium.com/thinkdata/is-there-a-difference-between-open-data-and-public-data-2b8d5608b2f1)
