@@ -30,4 +30,8 @@ some of the assets that come in handy for me.
 ### articles
 [open-data & closed data](https://medium.com/thinkdata/is-there-a-difference-between-open-data-and-public-data-2b8d5608b2f1)
 
+[ways-to-clean-your-data excel](https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
+
+[format & clean-up-data](https://support.google.com/a/users/answer/9604139?hl=en#zippy=)
+
 
