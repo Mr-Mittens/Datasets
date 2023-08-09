@@ -22,6 +22,10 @@ some of the assets that come in handy for me.
 
 [raosoft-sample-size](http://www.raosoft.com/samplesize.html)
 
+[margin-of-error-calculator](https://goodcalculators.com/margin-of-error-calculator)
+
+[sample-size-margin-of-error-calculator](https://www.checkmarket.com/sample-size-calculator/#sample-size-margin-of-error-calculator)
+
 
 ### articles
 [open-data & closed data](https://medium.com/thinkdata/is-there-a-difference-between-open-data-and-public-data-2b8d5608b2f1)
