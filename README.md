@@ -34,4 +34,6 @@ some of the assets that come in handy for me.
 
 [format & clean-up-data](https://support.google.com/a/users/answer/9604139?hl=en#zippy=)
 
+[automating-data-analysis](https://towardsdatascience.com/automating-scientific-data-analysis-part-1-c9979cd0817e)
+
 
