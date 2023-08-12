@@ -1,7 +1,7 @@
 ### Data-pad for refreshing
 some of the assets that come in handy for me.
-### urls
-### data-pools
+### URLs
+### Data-pools
 
 [data.gov](https://data.gov)
 
@@ -14,7 +14,7 @@ some of the assets that come in handy for me.
 [google-data-search](https://datasetsearch.research.google.com/)
 
 
-### census & survey
+### Census & Survey
 
 [census-data](https://www.census.gov/data.html)
 
@@ -27,7 +27,7 @@ some of the assets that come in handy for me.
 [sample-size-margin-of-error-calculator](https://www.checkmarket.com/sample-size-calculator/#sample-size-margin-of-error-calculator)
 
 
-### articles
+### Articles
 [open-data & closed data](https://medium.com/thinkdata/is-there-a-difference-between-open-data-and-public-data-2b8d5608b2f1)
 
 [ways-to-clean-your-data excel](https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)
