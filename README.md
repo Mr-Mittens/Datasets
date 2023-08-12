@@ -36,4 +36,14 @@ some of the assets that come in handy for me.
 
 [automating-data-analysis](https://towardsdatascience.com/automating-scientific-data-analysis-part-1-c9979cd0817e)
 
+### SQL roadmap
+[All about sql](https://www.datacamp.com/blog/all-about-sql-the-essential-language-for-database-management)
+
+[Difference Between SQL Vs MySQL Vs SQL Server](https://www.softwaretestinghelp.com/sql-vs-mysql-vs-sql-server)
+
+[Where to start](https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start) *Note that there is an error in this blog article. The comparison table incorrectly states that SQlite uses subqueries instead of window functions. Refer to the 
+[SQLite Window Functions](https://sqlite.org/windowfunctions.html) documentation for proper clarification.
+
+[Projects where to start](https://www.datacamp.com/blog/data-analytics-projects-all-levels)
+
 
