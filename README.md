@@ -46,4 +46,8 @@ some of the assets that come in handy for me.
 
 [Projects to start with](https://www.datacamp.com/blog/data-analytics-projects-all-levels)
 
+### Docs 
+[CONVERT Data in Docs](https://support.google.com/docs/answer/6055540?hl=en) [&](https://www.metric-conversions.org/speed/miles-per-hour-to-meters-per-second.htm)
+
+[CONVERT text to Data Excel](https://www.ablebits.com/office-addins-blog/excel-convert-text-date/#:~:text=Excel%20DATEVALUE%20function%20%2D%20change%20text,Excel%20recognizes%20as%20a%20date.&text=So%2C%20the%20formula%20to%20convert,stored%20as%20a%20text%20string.) [&](https://support.google.com/docs/?hl=en#topic=1382883)
 
